@@ -135,6 +135,13 @@
       "defaultViewEngine": "",
       "mapping": {}
     },
+    "mongoose": {
+      "url": "mongodb://127.0.0.1/wechat",
+      "options": {},
+      "loadModel": true,
+      "app": true,
+      "agent": false
+    },
     "env": "local",
     "name": "kangbingkuiserver",
     "keys": "<String len: 36>",
@@ -150,6 +157,7 @@
       "private": true,
       "dependencies": {
         "egg": "^2.2.1",
+        "egg-mongoose": "^2.2.1",
         "egg-scripts": "^2.5.0"
       },
       "devDependencies": {
@@ -285,7 +293,12 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
-    "middleware": [],
+    "middleware": [
+      "gzip"
+    ],
+    "gzip": {
+      "threshold": 1024
+    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware"
@@ -434,6 +447,17 @@
       "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
       "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view",
       "version": "2.1.0"
+    },
+    "mongoose": {
+      "enable": true,
+      "package": "egg-mongoose",
+      "name": "mongoose",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/plugin.js",
+      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose",
+      "version": "2.2.1"
     }
   }
 }

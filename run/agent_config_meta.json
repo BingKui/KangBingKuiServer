@@ -1,6 +1,16 @@
 {
   "keys": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
   "middleware": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+  "gzip": {
+    "threshold": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js"
+  },
+  "mongoose": {
+    "url": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+    "options": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+    "loadModel": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "app": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
+    "agent": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js"
+  },
   "session": {
     "maxAge": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
     "key": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
@@ -147,6 +157,7 @@
     "private": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
     "dependencies": {
       "egg": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+      "egg-mongoose": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
       "egg-scripts": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
     },
     "devDependencies": {

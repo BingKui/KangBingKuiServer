@@ -7,7 +7,16 @@ module.exports = appInfo => {
   config.keys = appInfo.name + '_1526629218135_4350';
 
   // add your config here
-  config.middleware = [];
+  config.middleware = ['gzip'];
+
+  config.gzip = {
+    threshold: 1024 // 小于 1k 的相应体不压缩
+  };
+
+  config.mongoose = {
+    url: 'mongodb://127.0.0.1/wechat',
+    options: {},
+  };
 
   return config;
 };
