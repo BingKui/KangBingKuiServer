@@ -88,21 +88,21 @@
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/locales",
-        "/Users/zl/GitHub_workspace/KangBingKuiServer/config/locales"
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/locales",
+        "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -112,8 +112,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/lib/event-sources/default",
-        "development": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/lib/event-sources/development"
+        "default": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/lib/event-sources/default",
+        "development": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/lib/event-sources/development"
       }
     },
     "multipart": {
@@ -137,7 +137,7 @@
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/zl/GitHub_workspace/KangBingKuiServer/logs/kangbingkuiserver/egg-schedule.log"
+        "file": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/logs/kangbingkuiserver/egg-schedule.log"
       }
     },
     "logrotator": {
@@ -151,7 +151,7 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/zl/GitHub_workspace/KangBingKuiServer/app/public",
+      "dir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
@@ -159,20 +159,20 @@
       "files": "<LRU>"
     },
     "view": {
-      "root": "/Users/zl/GitHub_workspace/KangBingKuiServer/app/view",
+      "root": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
       "mapping": {}
     },
     "mongoose": {
-      "url": "mongodb://127.0.0.1/wechat",
+      "url": "mongodb://127.0.0.1/poem",
       "options": {},
       "loadModel": true,
       "app": true,
       "agent": false,
       "client": {
-        "url": "mongodb://127.0.0.1/wechat",
+        "url": "mongodb://127.0.0.1/poem",
         "options": {}
       }
     },
@@ -233,9 +233,9 @@
       },
       "homepage": "https://github.com/BingKui/KangBingKuiServer#readme"
     },
-    "baseDir": "/Users/zl/GitHub_workspace/KangBingKuiServer",
-    "HOME": "/Users/zl",
-    "rundir": "/Users/zl/GitHub_workspace/KangBingKuiServer/run",
+    "baseDir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer",
+    "HOME": "/Users/kangbingkui",
+    "rundir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -266,7 +266,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/zl/GitHub_workspace/KangBingKuiServer/logs/kangbingkuiserver",
+      "dir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/logs/kangbingkuiserver",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -362,8 +362,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -375,8 +375,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security",
       "version": "2.2.2"
     },
     "jsonp": {
@@ -388,8 +388,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -401,8 +401,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror",
       "version": "2.0.0"
     },
     "i18n": {
@@ -412,8 +412,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -423,8 +423,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -434,8 +434,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart",
       "version": "2.0.0"
     },
     "development": {
@@ -449,8 +449,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development",
       "version": "2.2.0"
     },
     "schedule": {
@@ -460,8 +460,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule",
       "version": "3.3.0"
     },
     "logrotator": {
@@ -473,8 +473,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator",
       "version": "3.0.3"
     },
     "static": {
@@ -484,8 +484,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static",
       "version": "2.1.1"
     },
     "view": {
@@ -495,8 +495,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view",
       "version": "2.1.0"
     },
     "mongoose": {
@@ -506,8 +506,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/plugin.js",
-      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose",
+      "from": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/plugin.js",
+      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose",
       "version": "2.2.1"
     }
   }
