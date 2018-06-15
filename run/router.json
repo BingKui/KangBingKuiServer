@@ -6,8 +6,8 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/",
-    "regexp": "/^(?:\\/(?=$))?$/",
+    "path": "/poem",
+    "regexp": "/^\\/poem(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]
@@ -15,12 +15,11 @@
   {
     "name": null,
     "methods": [
-      "HEAD",
-      "GET"
+      "POST"
     ],
     "paramNames": [],
-    "path": "/poem",
-    "regexp": "/^\\/poem(?:\\/(?=$))?$/",
+    "path": "/uploadimg",
+    "regexp": "/^\\/uploadimg(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

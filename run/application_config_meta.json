@@ -1,289 +1,290 @@
 {
-  "keys": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/config.default.js",
-  "middleware": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/config.default.js",
+  "keys": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+  "middleware": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
   "gzip": {
-    "threshold": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/config.default.js"
+    "threshold": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js"
   },
   "mongoose": {
-    "url": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/config.default.js",
-    "options": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/config/config.default.js",
-    "loadModel": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
-    "app": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js",
-    "agent": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-mongoose@2.2.1@egg-mongoose/config/config.default.js"
+    "url": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+    "options": "/Users/zl/GitHub_workspace/KangBingKuiServer/config/config.default.js",
+    "loadModel": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-mongoose/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "key": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "httpOnly": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
-    "encrypt": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+    "maxAge": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "domainWhiteList": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "useSession": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "cookieName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "sessionName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "headerName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "bodyName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "queryName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "value": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.local.js",
-      "maxAge": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "value": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "value": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "policy": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
-      "checkAddress": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+      "ipBlackList": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    "shtml": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
-    "callback": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
-    "csrf": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+    "limit": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-onerror@2.0.0@egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "dirs": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "queryField": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "cookieField": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "type": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
-      "development": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+      "default": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "fields": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "fileSize": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "files": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
-    "whitelist": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+    "autoFields": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-multipart/config/config.default.js"
   },
   "development": {
-    "watchDirs": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
-    "fastReady": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js",
-    "overrideDefault": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-development@2.2.0@egg-development/config/config.default.js"
+    "watchDirs": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-development/config/config.default.js"
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
-      "file": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
-    "dir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
-    "dynamic": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
-    "preload": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
-    "buffer": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
-    "maxFiles": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+    "prefix": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
-    "cache": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
-    "defaultExtension": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
-    "mapping": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+    "root": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg-view/config/config.default.js"
   },
-  "env": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "name": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "proxy": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "protocolHeaders": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "ipHeaders": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "hostHeaders": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "env": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "name": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "version": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "description": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "main": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "private": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "name": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "version": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "description": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "main": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "private": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "egg": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "egg-mongoose": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "egg-scripts": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "egg": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "qiniu": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "autod-egg": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "egg-bin": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "egg-ci": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "egg-mock": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "eslint": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "eslint-config-egg": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "webstorm-disable-index": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "autod": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "node": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "stop": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "dev": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "debug": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "test": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "test-local": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "cov": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "lint": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "ci": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "autod": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "start": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "stop": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "dev": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "debug": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "test": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "cov": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "lint": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "ci": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "autod": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "version": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "url": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "type": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "url": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "license": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "author": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "license": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
     "bugs": {
-      "url": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "url": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
-    "homepage": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "homepage": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "HOME": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "rundir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "baseDir": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "ignore": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "notFound": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "sitefile": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "middlewares": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "httpClient": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "bodyparser": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "pageUrl": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "/favicon.ico": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "encoding": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "formLimit": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "jsonLimit": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "strict": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "depth": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "parameterLimit": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "arrayLimit": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     }
   },
   "logger": {
-    "dir": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "encoding": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "env": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "level": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "consoleLevel": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "outputJSON": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "buffer": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "appLogName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "coreLogName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "agentLogName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "errorLogName": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "dir": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "env": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "level": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.local.js"
+      "consoleLevel": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "dnsCacheMaxAge": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+    "enableDNSCache": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "timeout": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "maxSockets": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "maxFreeSockets": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "keepAlive": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "maxSockets": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "maxFreeSockets": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "keepAlive": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "logging": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "enable": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "logging": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-  "workerStartTimeout": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
+  "coreMiddleware": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "port": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-      "hostname": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+      "path": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "port": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js",
-    "responseTimeout": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+    "maxWaitTime": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/kangbingkui/workspace/GitHub_src/KangBingKuiServer/node_modules/_egg@2.8.1@egg/config/config.default.js"
+  "onClientError": "/Users/zl/GitHub_workspace/KangBingKuiServer/node_modules/egg/config/config.default.js"
 }
