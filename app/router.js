@@ -11,4 +11,6 @@ module.exports = app => {
   router.get('/api/movielist', controller.movie.movieList);
   // 获取歌单列表
   router.get('/api/playlist', controller.music.musicList);
+  // 获取七牛云存储 uptoken
+  router.get('/api/uptoken', controller.qiniu.uptoken);
 };
